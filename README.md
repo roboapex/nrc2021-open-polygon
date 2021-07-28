@@ -1,1 +1,1 @@
-# nrc2021-open-polygon
+# nrc2021-reg-polygon
